@@ -50,8 +50,12 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
       - Create project report
    
       - Build presentation deck using Gamma AI
-  
+
+  5. **Create GitHub Repository**
+
+      - Showcase the project on GitHub
  👨‍💼**
 
 ## 💡 Thanks for checking out the project! 🚀
+
 
